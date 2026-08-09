@@ -45,10 +45,10 @@ problem before it is a psychological one.
   on data collected afterwards. Without this, a system with fifty channels
   generates significant findings from noise indefinitely.
 - **Hardware is configuration, not architecture.** Devices are adapters
-  behind a common interface. The device list in `hardware/` is one working
-  instantiation, not a requirement.
+  behind a common interface. The device list in `hardware.md` is one
+  working instantiation, not a requirement.
 
-  ## Architecture
+## Architecture
 
 Everything reduces to two tables:
 
@@ -68,4 +68,4 @@ compared across event types.
 ## Status
 
 Early. See `docs/protocol.md` for the measurement protocol and
-`hardware/` for the current instantiation.
+`hardware.md` for the current instantiation.
